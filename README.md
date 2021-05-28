@@ -1,1 +1,1 @@
-# Semantic-CutMix-A-Semantic-Label-Mixing-DataAugmentation-Approach-with-Various-SmoothPattern
+# Gaussian-Mix-Data-Augmentation
