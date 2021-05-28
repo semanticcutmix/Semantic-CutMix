@@ -1,1 +1,1 @@
-# Gaussian-Mix-Data-Augmentation
+# Semantic CutMix
